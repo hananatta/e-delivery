@@ -18,3 +18,6 @@ First of all, check that your repo is up to date via run the followig command:
 
 Notes:
 - Do the migration in order of relashionship.
+- Use the following screenshot for DB design.
+
+![Students-Board Reactjs APP](https://user-images.githubusercontent.com/20383171/147367731-2021beee-db4e-41b8-8fa1-e0a978e101f9.jpeg)
